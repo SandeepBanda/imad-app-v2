@@ -7,7 +7,7 @@ element1.innerHTML = "Assigning";
 
 var element2 = document.getElementById("id1");
 
-element.oncilck = function()
+element2.oncilck = function()
 {
-    element.style.marginLeft = "100px";
+    element2.style.marginLeft = "100px";
 };
